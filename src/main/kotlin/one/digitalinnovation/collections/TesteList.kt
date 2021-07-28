@@ -21,6 +21,7 @@ fun main() {
 
 }
 
+/*
 data class funcionario(
     val nome: String,
     val salario: Double,
@@ -31,4 +32,4 @@ data class funcionario(
              Nome: $nome
              Salário: $salario
         """.trimIndent()
-}
+} */
